@@ -1,2 +1,2 @@
 # Weed-Tycoon-beta
-Weed tycoon mobile ga,e 
+Weed tycoon mobile game
